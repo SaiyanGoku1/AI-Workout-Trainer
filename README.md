@@ -13,3 +13,6 @@ If you're looking to track your exercise progress and receive real-time feedback
 
 
 4- Performance Visualization: When you finish the program, a visualization chart is displayed, illustrating your performance throughout the exercise session. This visual representation enables you to assess your progress and identify areas for improvement.
+
+
+Exercises supported: Squat, Arm curl, Situp.
