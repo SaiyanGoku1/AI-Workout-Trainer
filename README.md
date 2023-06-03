@@ -21,7 +21,7 @@ Exercises supported: Squat, Arm curl, Situp.
 
 
 
-To use the program:
+# To use the program:
 
 1. Download the PyCharm and install Python version 3.8
 2. The packages needed for the program to run is :- 
@@ -39,3 +39,13 @@ To use the program:
 4. A new window will open up, make sure to select that window.
 5. Perform your exercise infront of your webcam, make sure your full body is in the screen and there should a proper lighting in the room.
 6. After completion, press 'q' on your keyboard to end the program.
+
+
+# Example :
+
+
+
+https://github.com/SaiyanGoku1/AI-Workout-Trainer/assets/95546539/bf824673-34f6-4ae2-b2e3-4fe9f74bb0e7
+
+
+
