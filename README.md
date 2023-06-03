@@ -15,4 +15,24 @@ If you're looking to track your exercise progress and receive real-time feedback
 4- Performance Visualization: When you finish the program, a visualization chart is displayed, illustrating your performance throughout the exercise session. This visual representation enables you to assess your progress and identify areas for improvement.
 
 
+
+
 Exercises supported: Squat, Arm curl, Situp.
+
+
+
+To use the program:
+
+1. Download the PyCharm and install Python version 3.8
+2. The packages needed for the program to run is :- 
+
+    ---> Mediapipe version 0.8.3.1
+    ---> OpenCV version 4.6.0.66
+    ---> Numpy version 1.24.3
+    ---> Matplotlib version 3.6.2
+    
+    
+3. After that run the program and select exercises from the prompt by pressing 1, 2, 3
+4. A new window will open up, make sure to select that window.
+5. Perform your exercise infront of your webcam, make sure your full body is in the screen and there should a proper lighting in the room.
+6. After completion, press 'q' on your keyboard to end the program.
