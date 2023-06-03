@@ -26,10 +26,13 @@ To use the program:
 1. Download the PyCharm and install Python version 3.8
 2. The packages needed for the program to run is :- 
 
-    ---> Mediapipe version 0.8.3.1
-    ---> OpenCV version 4.6.0.66
-    ---> Numpy version 1.24.3
-    ---> Matplotlib version 3.6.2
+    ---> Mediapipe version (0.8.3.1)
+    
+    ---> OpenCV version (4.6.0.66)
+    
+    ---> Numpy version (1.24.3)
+    
+    ---> Matplotlib version (3.6.2)
     
     
 3. After that run the program and select exercises from the prompt by pressing 1, 2, 3
